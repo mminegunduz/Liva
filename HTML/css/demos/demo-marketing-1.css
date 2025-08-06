@@ -420,6 +420,7 @@ section.section.section-angled.section-angled-reverse .section-angled-layer-bott
 		padding: 3em 0 2em;
 		border-bottom: 2px solid var(--grey-200);
 		position: relative;
+		line-height: 1.1;
 }
 
 .custom-project-list-item-1 .custom-project-list-item-num-1 {
